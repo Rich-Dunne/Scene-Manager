@@ -39,7 +39,9 @@ Menu options with gold colored text are selectable, which means when you select 
 ### Barrier Management
 1.  To place barriers, open the Scene Manager menu by pressing Left Shift + T (default).
 2.  In the Barrier Menu, you may scroll through different types of road barriers, as well as place and remove barriers.
-3.  The AI will not drive around barriers on their own.  Barrier placement should be in conjunction with your paths.
+3.  While the barrier menu is open and Spawn Barrier or Rotate Barrier are highlighted, you will see a "shadow" barrier.  The shadow barrier shows the barrier you currently have selected, its rotation, and the position it will be spawned at.
+4.  The spawn position is wherever you aim your mouse.  If you aim your mouse too far away, the shadow barrier will disappear and you won't be able to spawn the barrier.  You can change the maximum spawn distance in the plugin's .ini file.
+5.  The AI will not drive around barriers on their own.  Barrier placement should be in conjunction with your paths.
 
 ![Barrier menu](https://i.imgur.com/SIMDo9o.jpg)
 ![Placing barriers](https://i.imgur.com/xODrzcA.jpg)
