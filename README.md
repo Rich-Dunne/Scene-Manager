@@ -2,6 +2,7 @@
 
 ## INSTALLATION
 Drag and drop the contents from within the downloaded GTA V folder into where your GTA V is installed.
+![How to drag and drop](https://i.imgur.com/nnxqgtn.jpg)
 
 ## HOW-TO USE
 ### Using the Menus:
