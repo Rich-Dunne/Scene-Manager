@@ -15,7 +15,7 @@ Menu options with gold colored text are selectable, which means when you select 
 2.  In the Path Creation menu, you can specify different waypoint options, as well as add and remove waypoints.  The settings for each waypoint are how the AI will drive to **that** waypoint from the **previous** waypoint.
 3.  Adding a waypoint will create a waypoint at your player's position.
 4.  As you add and remove waypoints, blips and world markers will appear and disappear if enabled in your settings.  Blips are numbered to correspond with their path.  Blips and markers are also colored to designate the following:  Blue are collector waypoints, green are Drive-To waypoints, and red are Stop waypoints.
-5.  The path will activate once you select "End path creation," and cars will automatically follow the path when they are close to the first waypoint.
+5.  The path will activate once you select "End path creation," and cars will automatically follow the path when they are within the collection radius.
 6.  After creating paths, you can delete them via the Path Menu.
 
 ![Creating a path](https://i.imgur.com/CAKNt4i.jpg)
