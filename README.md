@@ -4,7 +4,7 @@
 Drag and drop the contents from within the downloaded GTA V folder into where your GTA V is installed.
 ![How to drag and drop](https://i.imgur.com/nnxqgtn.jpg)
 
-## HOW-TO USE
+## HOW TO USE SCENE MANAGER
 ### Using the Menus:
 Menu options with gold colored text are selectable, which means when you select these menu items, something will happen (opening a new menu, adding a waypoint, placing a barrier, etc).  Menu options with white colored text are interactable (can be scrolled through, for example), but nothing will happen if you try to select them.
 
