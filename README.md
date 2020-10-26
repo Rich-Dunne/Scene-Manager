@@ -58,3 +58,6 @@ Menu options with gold colored text are selectable, which means when you select 
 ## CREDITS
 * Author: Rich
 * Additional credit:  PNWParksFan for code assistance and extensive testing, Sereous, OJdoesIt, Vincentsgm, EchoWolf, FactionsBrutus
+
+## GET SUPPORT AND REPORT PROBLEMS
+For the fastest support, [join my Discord](https://discord.gg/cUQaTNQ) and ask your question in the **correct category/channel**.  For slower support, [use this thread on the LSPDFR forums](https://www.lcpdfr.com/forums/topic/107730-richs-plugin-support-thread/).
