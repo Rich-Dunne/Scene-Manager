@@ -1,7 +1,7 @@
 # Scene Manager
 
 ## INSTALLATION
-Drag and drop the contents from within the downloaded GTA V folder into where your GTA V is installed.
+Drag and drop the contents from within the downloaded GTA V folder into where your GTA V is installed.  Enable the plugin in the RagePluginHook settings, or load it manually via the in-game console.
 ![How to drag and drop](https://i.imgur.com/nnxqgtn.jpg)
 
 ## GET SUPPORT AND REPORT PROBLEMS
